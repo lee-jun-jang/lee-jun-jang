@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Leejun's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
 
-[![Git Blog](https://img.shields.io/badge/Git_Blog-green)](https://lee-jun-jang.github.io)
+[![Git Blog](https://img.shields.io/badge/Git_Blog-green)]([https://lee-jun-jang.github.io](https://github.com/lee-jun-jang))
 
 <h1 align="center">📚Stacks</h1>
 
