@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Juwon's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50)
 
 
-[![Git Blog](https://img.shields.io/badge/Git_Blog-green)](https://jwndnjs1104.github.io)
+[![Git Blog](https://img.shields.io/badge/Git_Blog-green)](https://lee-jun-jang.github.io)
 
 <h1 align="center">📚Stacks</h1>
 
@@ -78,13 +78,13 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwndnjs1104&show_icons=true&theme=nord&langs_count=8&hide_title=false" />
+  <a href="https://github.com/lee-jun-jang">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee-jun-jang&show_icons=true&theme=nord&langs_count=8&hide_title=false" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jwndnjs1104">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwndnjs1104&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord&hide_title=false" />
+  <a href="https://github.com/lee-jun-jang">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lee-jun-jang&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=nord&hide_title=false" />
   </a>
 </p>
