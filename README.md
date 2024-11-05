@@ -73,7 +73,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MQTTX-003545?style=for-the-badge&logo=MQTT&logoColor=white">
-  <img src="https://img.shields.io/badge/StarUML-333366?style=for-the-badge&logo=staruml&logoColor=white">
 </p><br/>
 
 
